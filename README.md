@@ -14,3 +14,5 @@ Cloudformation to create a static site in s3 with route53
 ## Upload Static Files
 
     aws s3 cp index.html s3://[rc.example.pe]
+
+Publish in AWS Serverless repo [AWS Serverless repo ](https://serverlessrepo.aws.amazon.com/#/applications/arn:aws:serverlessrepo:us-east-1:608343948505:applications~s3-static-site-route53)
